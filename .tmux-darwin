@@ -1,0 +1,4 @@
+# true colors
+set -g default-terminal "alacritty"
+set -g terminal-overrides ",alacritty:Tc"
+
